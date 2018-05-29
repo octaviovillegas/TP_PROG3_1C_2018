@@ -9,5 +9,5 @@ las consultas se realizan por las issues de este repositorio.
 
 <h1>Alerta!!!</h1> 
 
-las consultas se realizan por las issues de este repositorio.
+<h2>las consultas se realizan por las issues de este repositorio.</h2>
 
