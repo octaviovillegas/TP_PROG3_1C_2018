@@ -3,9 +3,11 @@
 
 #Atención!!!
 
-1-Las consultas se realizan por las issues de este repositorio.
+1- Hacer fork de este repo.
 
-2-El enunciado va a cambiar indefectiblemente.
+2-Las consultas se realizan por las issues de este repositorio.
+
+3-El enunciado va a cambiar indefectiblemente.
 
 
 <h1>Alerta!!!</h1> 
