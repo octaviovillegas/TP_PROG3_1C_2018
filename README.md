@@ -2,12 +2,13 @@
 "la comanda" TP obligatorio
 
 #
-atenciòn!!! 
+Atención!!! 
 las consultas se realizan por las issues de este repositorio
 ===================================
 
 
 #===================================
-<h1>alerta!!!</h1> 
+<h1>Alerta!!!</h1> 
+
 las consultas se realizan por las issues de este repositorio
-#===================================
+
